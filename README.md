@@ -3,7 +3,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
 
 ## List
 
-### Networking
+### Indonesia OpenStack User Group
 
 * **Indonesia Open Infrastructure Day 2019**
   * [David Iles, Senior Director World Wide Ethernet Switch at Mellanox Technologies – Mellanox brings webscale Innovations to Any Cloud](IOID-2019/David_Iles_Mellanox_brings_webscale.pdf)

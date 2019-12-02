@@ -62,3 +62,10 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Rizky Ariestiyansyah - Smart Connected Ecosystem using Open Source Mozilla WebThings](PyConID-2019/Smart_Connected_Ecosystem_using_Open_Source_Mozilla_WebThings.pdf)
   * [Muhammad Sifa'ul Rizky - Visualize Your Population and Density of Surabaya based on Districts with Folium](PyConID-2019/Visualize_Your_Population_and_Density_of_Surabaya_based_on_Districts_with_Folium.pdf)
   * [Sumihar Christian - Decorating My Room with Neural Style Transfer Learning](#)
+
+### DevOps Indonesia
+
+* **DevOps Indonesia x GITS Indonesia - Roadshow to DevOpsDays Jakarta 2020**
+  * [Didiet Agus Pambudiono - Create secure remote connection to your GCE instance](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/didietagusp-secureyourgceinstance.pdf)
+  * [Fajri Abdillah - Intro to DevOps Pillars with AWS Cloudformation](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/intro-devops-pillars/index.html)
+  * [Announcement](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/announcement.pdf)

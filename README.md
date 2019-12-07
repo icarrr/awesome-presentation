@@ -48,7 +48,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Eko Suprapto Wibowo - How I use Odoo and Telegram Bot to (almost) single handedly run my digital startup](#)
   * [Noah - PyCon in Asia](#)
   * [Takanori Suzuki - Automate the Boring Stuff with Slackbot](#)
-  * [Muhammad Shalahuddin Yahya Sunarko - Choosing Concurrency and Parallelism for Your Python Projects](#)
+  * [Muhammad Shalahuddin Yahya Sunarko - Choosing Concurrency and Parallelism for Your Python Projects](PyConID-2019/Choosing_Concurrency_and_Parallelism_for_Your_Python_Projects.pdf)
   * [Sigit Dewanto - Scrapy: Web Scraping Made Easy](#)
   * [Elvyna Tunggawan - Introduction to Change Point Analysis](#)
   * [Aditya Satrya - Automated Distributed Load Testing Using Locust, Kubernetes, and Cloud Build](#)

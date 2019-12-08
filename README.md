@@ -38,7 +38,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Lucas Elbert Suryana - ARIMA Model for Predicting Reservoir Pressure & Temperature in the Geothermal Power plant](#)
   * [Syarif Hidayatullah - Best Practice for Managing Data Lineage using Python](#)
   * [Oon Arfiandwi - Contribute to Open Source by Translating Python Documentation to Bahasa Indonesia](#)
-  * [Iskandar Setiadi - Python Website is Slow? Think Again!](#)
+  * [Iskandar Setiadi - Python Website is Slow? Think Again!](PyConID-2019/Python_Website_is_Slow_Think_Again.pdf)
   * [Andi Dinata - Machine Vision and Artificial Neural Network with Python on Hardware](#)
   * [Eka Antonius Kurniawan - Handling 3 V's in Big Data: Velocity, Volume, and Variety](#)
   * [Anthony Khong - Functional Programming 101 with Python](#)

@@ -38,7 +38,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Lucas Elbert Suryana - ARIMA Model for Predicting Reservoir Pressure & Temperature in the Geothermal Power plant](#)
   * [Syarif Hidayatullah - Best Practice for Managing Data Lineage using Python](#)
   * [Oon Arfiandwi - Contribute to Open Source by Translating Python Documentation to Bahasa Indonesia](#)
-  * [Iskandar Setiadi - Python Website is Slow? Think Again!](#)
+  * [Iskandar Setiadi - Python Website is Slow? Think Again!](PyConID-2019/Python_Website_is_Slow_Think_Again.pdf)
   * [Andi Dinata - Machine Vision and Artificial Neural Network with Python on Hardware](#)
   * [Eka Antonius Kurniawan - Handling 3 V's in Big Data: Velocity, Volume, and Variety](#)
   * [Anthony Khong - Functional Programming 101 with Python](#)
@@ -69,3 +69,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Didiet Agus Pambudiono - Create secure remote connection to your GCE instance](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/didietagusp-secureyourgceinstance.pdf)
   * [Fajri Abdillah - Intro to DevOps Pillars with AWS Cloudformation](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/intro-devops-pillars/index.html)
   * [Announcement](DevOps-Indonesia-x-GITS-Indonesia-Readshow-DevOpsDays-Jakarta-2020/announcement.pdf)
+* **DevOps Indonesia x Qoala - Roadshow to DevOpsDays Jakarta 2020**
+  * [Announcement](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/devopsindonesiaxqoala-announcement-191216043306.pdf)
+  * [Muhammad Sami - Running containerized application in AWS ECS](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/runningcontainerizedapplicationinawsecs-muhammadsami-191216043309.pdf)
+  * [Wan Satria Andanu - How DevOps works in MOKA](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/howdevopsworksinmoka-wansatriaandanu-191216043259.pdf)

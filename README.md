@@ -73,3 +73,7 @@ Awesome collection of presentation slides on meetup, workshop, and others.
   * [Announcement](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/devopsindonesiaxqoala-announcement-191216043306.pdf)
   * [Muhammad Sami - Running containerized application in AWS ECS](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/runningcontainerizedapplicationinawsecs-muhammadsami-191216043309.pdf)
   * [Wan Satria Andanu - How DevOps works in MOKA](DevOps-Indonesia-x-Qoala-Roadshow-to-DevOpsDays-Jakarta-2020/howdevopsworksinmoka-wansatriaandanu-191216043259.pdf)
+* **DevOps Indonesia with F5**
+  * [Announcement](DevOps-Indonesia-x-F5/devopsindonesia-f5-191220081238.pdf)
+  * [API Management and Demo](DevOps-Indonesia-x-F5/apimanagementanddemo-bobbylimitralaksmono-191220081101.pdf)
+  * [Integrate Security and Compliance into your CI/CD Pipeline](DevOps-Indonesia-x-F5/integratesecurityandcomplianceintoyourcicdpipeline-fauziramadhan-191220081056.pdf)
